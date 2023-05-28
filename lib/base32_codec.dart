@@ -3,6 +3,6 @@
 /// More dartdocs go here.
 library;
 
-export 'src/base32_codec_base.dart';
+export 'src/codec.dart';
 
 // TODO: Export any libraries intended for clients of this package.
